@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul Gary</h1>
 <h3 align="center">A passionate fullstack developer from Philippines</h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  style="margin:auto;"><img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  style="margin:auto;">
+<img align="center" alt="Coding" width="10800" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  style="margin:auto;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidarr1412&label=Profile%20views&color=0e75b6&style=flat" alt="paulgary452" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidarr1412" alt="paulgary452" /></a> </p>
