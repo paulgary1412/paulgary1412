@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Gary Oca</h1>
 <h3 align="center">A passionate fullstack developer from Philippines</h3>
 <a href="https://www.uhdpaper.com/2024/10/aespa-whiplash-winter-unbeatable-beat.html?m=0">
-  <img 
-    align="center" 
-    alt="Coding" 
-    src="https://firebasestorage.googleapis.com/v0/b/dengapp-5d20c.appspot.com/o/4816ce1d4a38a5a1251a4824ecb5d752.jpg?alt=media&token=45568297-74a5-4057-af51-6775726beee5" 
-    style="margin-left:20000px;margin-top:2000px"
-  >
-</a>
+
 <img align="center" alt="Coding" width="10800" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  style="margin:auto;">
 
 
